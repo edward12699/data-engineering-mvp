@@ -1,0 +1,16 @@
+product_id,product_name,category,price,currency,is_active
+P0001,Wireless Mouse,Electronics,79.00,CNY,true
+P0002,Mechanical Keyboard,Electronics,299.00,CNY,true
+P0003,USB-C Cable 1m,Electronics,19.90,CNY,true
+P0004,Laptop Stand,Office,129.00,CNY,true
+P0005,Noise Cancelling Headphones,Electronics,899.00,CNY,true
+P0006,Notebook A5,Office,12.50,CNY,true
+P0007,Gel Pen (Pack of 10),Office,24.90,CNY,true
+P0008,Stainless Water Bottle,Home,59.00,CNY,true
+P0009,Coffee Beans 500g,Grocery,88.00,CNY,true
+P0010,Green Tea 200g,Grocery,45.00,CNY,true
+P0011,Yoga Mat,Sports,109.00,CNY,true
+P0012,Dumbbell 5kg,Sports,139.00,CNY,true
+P0013,Desk Lamp,Home,169.00,CNY,true
+P0014,Backpack 20L,Travel,219.00,CNY,true
+P0015,Phone Case,Accessories,39.00,CNY,true

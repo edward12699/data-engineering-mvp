@@ -1,0 +1,21 @@
+customer_id,full_name,email,signup_date,country,city,is_active
+C0001,Alice Chen,alice.chen@example.com,2025-01-12,CN,Shanghai,true
+C0002,Bob Li,bob.li@example.com,2025-02-03,CN,Beijing,true
+C0003,Charlie Wang,charlie.wang@example.com,2025-02-20,CN,Shenzhen,true
+C0004,Diana Zhang,diana.zhang@example.com,2025-03-05,CN,Hangzhou,true
+C0005,Ethan Liu,ethan.liu@example.com,2025-03-22,CN,Guangzhou,true
+C0006,Fiona Zhao,fiona.zhao@example.com,2025-04-10,CN,Chengdu,true
+C0007,George Xu,george.xu@example.com,2025-04-28,CN,Nanjing,true
+C0008,Hannah Sun,hannah.sun@example.com,2025-05-14,CN,Wuhan,true
+C0009,Ian Hu,ian.hu@example.com,2025-06-01,CN,Xi'an,true
+C0010,Judy He,judy.he@example.com,2025-06-19,CN,Suzhou,true
+C0011,Kevin Gao,kevin.gao@example.com,2025-07-07,CN,Chongqing,true
+C0012,Lily Tang,lily.tang@example.com,2025-07-25,CN,Tianjin,true
+C0013,Michael Zhou,michael.zhou@example.com,2025-08-09,CN,Changsha,true
+C0014,Nina Lin,nina.lin@example.com,2025-08-27,CN,Qingdao,true
+C0015,Oscar Deng,oscar.deng@example.com,2025-09-15,CN,Ningbo,true
+C0016,Paula Fang,paula.fang@example.com,2025-10-03,CN,Xiamen,true
+C0017,Quinn Peng,quinn.peng@example.com,2025-10-21,CN,Jinan,true
+C0018,Rachel Qian,rachel.qian@example.com,2025-11-08,CN,Dalian,true
+C0019,Sam Gu,sam.gu@example.com,2025-11-26,CN,Foshan,false
+C0020,Tina Wu,tina.wu@example.com,2025-12-12,CN,Kunming,true
