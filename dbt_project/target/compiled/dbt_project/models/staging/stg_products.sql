@@ -7,7 +7,7 @@ SELECT
     cast(is_active AS boolean) AS is_active,
     cast(source_file AS varchar) AS source_file
 FROM
-    {{ source('raw', 'products') }}
+    "warehouse"."main"."products"
 WHERE
     product_id IS NOT NULL
     AND trim(product_id) <> ''

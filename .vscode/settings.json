@@ -9,7 +9,7 @@
       "alias": "warehouse",
       "type": "file",
       "path": "/Users/jinxiaoxiang/Documents/myProjects/data-engineering-mvp/data/warehouse.duckdb",
-      "attached": false,
+      "attached": true,
       "readOnly": false
     }
   ],

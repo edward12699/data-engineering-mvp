@@ -9,7 +9,7 @@ SELECT
     cast(payment_method AS varchar) AS payment_method,
     cast(order_date AS date) AS order_date
 FROM
-    {{source ('raw', 'orders')}}
+    "warehouse"."main"."orders"
 WHERE
     order_id IS NOT NULL
     AND trim(order_id) <> ''
